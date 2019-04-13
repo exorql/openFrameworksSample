@@ -20,7 +20,9 @@ ipch/
 *.suo
 *.opensdf
 *.vcxproj.user
-
+*/build/
+*.[oa]
+*/bin/
 *.obj
 *.tlog
 *.sdf
