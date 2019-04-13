@@ -1,15 +1,36 @@
-*~
-*#
-*.zip
-*.tar.gz
+libs/
+docs/
 
-# osx / xcode / openframeworks
+*.depend
+*.layout
+*.mode*v3
+*.pbxuser
+*.app*
+*.DS_*
+._*.*
 
-.DS_Store
+.svn/
+obj/
+bin/
+build/
+!data/
+xcuserdata/
 
-DerivedData
+ipch/
+*.suo
+*.opensdf
+*.vcxproj.user
 
-obj
-**/bin/*
-!**/bin/data/
-*Debug.app
+*.obj
+*.tlog
+*.sdf
+*.pdb
+*.idb
+*.pch
+Debug/
+Release/
+
+
+*~.xml
+
+Sketch*/
