@@ -12,7 +12,7 @@ docs/
 .svn/
 obj/
 bin/
-circleSketch/bin/
+circleSketch/bin/*
 build/
 !data/
 xcuserdata/
